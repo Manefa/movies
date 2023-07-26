@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+}
+
+.bgSW {
+  background-image: url("https://peachz.ca/wp-content/uploads/2022/07/tv-film-netflix-grey-man-new-keyart.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+
+.bgDC {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
